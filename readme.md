@@ -19,7 +19,7 @@ Concepts used in this project
 Technologies Used in this project:
 <br>
 <ol>
-<li>Numpy and Padas for Data cleaning</li>
+<li>Numpy and Pandas for Data cleaning</li>
 <li>Matpolib for Data visualization</li>
 <li>Sklearn for model Building</li>
 </ol>
