@@ -6,16 +6,20 @@ We then test the model for some given values.
 <br><br>
 Concepts used in this project
 <br>
-1. Data Load and Cleaning
-2. Outlier Detection
-3. Removal
-4. Feature Engineering
-5. Dimensionality Reduction
-6. Grid Search for Hyperparameter Tunning
-7. K Fold cross Validation
+<ul>
+<li>Data Load and Cleaning</li>
+<li>Outlier Detection</li>
+<li>Removal</li>
+<li>Feature Engineering</li>
+<li>Dimensionality Reduction</li>
+<li>Grid Search for Hyperparameter Tunning</li>
+<li>K Fold cross Validation</li>
+</ul>
 <br>
 Technologies Used in this project:
 <br>
-1. Numpy and Padas for Data cleaning
-2. Matpolib for Data visualization
-3. Sklearn for model Building
+<ol>
+<li>Numpy and Padas for Data cleaning</li>
+<li>Matpolib for Data visualization</li>
+<li>Sklearn for model Building</li>
+</ol>
