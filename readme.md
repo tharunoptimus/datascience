@@ -1,6 +1,6 @@
 # Data Science Project
 <br>
-Import a Dataset and Create a Model out of it using LinearRegression and measure the accuracy of the model using K Fold Cross Validation and finding the best model using GridSearchCV.
+Importing a Dataset and creating a Model out of it using LinearRegression and measuring the accuracy of the model using K Fold Cross Validation and finding the best model using GridSearchCV.
 <br>
 We then test the model for some given values.
 <br><br>
@@ -19,7 +19,7 @@ Concepts used in this project
 Technologies Used in this project:
 <br>
 <ol>
-<li>Numpy and Padas for Data cleaning</li>
+<li>Numpy and Pandas for Data cleaning</li>
 <li>Matpolib for Data visualization</li>
 <li>Sklearn for model Building</li>
 </ol>
