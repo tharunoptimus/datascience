@@ -23,3 +23,6 @@ Technologies Used in this project:
 <li>Matpolib for Data visualization</li>
 <li>Sklearn for model Building</li>
 </ol>
+
+<br>
+<a href="https://colab.research.google.com/github/tharunoptimus/datascience/blob/main/project.ipynb">Link to the Colab Notebook</a>
