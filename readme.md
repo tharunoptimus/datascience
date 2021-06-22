@@ -1,4 +1,4 @@
-# Data Science Project
+# Data Science Regression Project
 <br>
 Importing a Dataset and creating a Model out of it using LinearRegression and measuring the accuracy of the model using K Fold Cross Validation and finding the best model using GridSearchCV.
 <br>
