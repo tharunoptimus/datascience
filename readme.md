@@ -2,8 +2,7 @@
 <br>
 Importing a Dataset and creating a Model out of it using LinearRegression and measuring the accuracy of the model using K Fold Cross Validation and finding the best model using GridSearchCV.
 <br>
-We then test the model for some given values.
-<br><br>
+At the end of the project, the model will be able to predict the prices for a given sqft and number of BHKs and bathrooms in INR <br><br>
 Concepts used in this project
 <br>
 <ul>
